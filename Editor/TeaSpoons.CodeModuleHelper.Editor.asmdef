@@ -1,0 +1,20 @@
+{
+    "name": "TeaSpoons.CodeModuleHelper.Editor",
+    "rootNamespace": "TeaSpoons.CodeModuleHelper.Editor",
+    "references": [
+        "GUID:78009efff45cad84e907495c08e80b0e",
+        "GUID:a0c5ec7e16c78754ba7ba2d6ba779a97",
+        "GUID:0dbd9e6df9968c04aaf1b8b452dd9495"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
