@@ -1,6 +1,6 @@
 {
   "name": "com.tea-spoons.code-module-helper",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "displayName": "CodeModule Helper",
   "description": "An editor tool for managing code modules in a consistent, standardized way.",
   "unity": "2022.3",
